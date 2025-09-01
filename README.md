@@ -6,10 +6,10 @@ QuickQueue is a queue management system I built to make waiting lines more effic
 It also comes with a simple web portal where users can book slots, track their position in real time, and admins can monitor the entire queue flow through a dashboard.
 
 # Tech Used
-Backend: Java (Spring Boot), 
-Frontend: HTML, CSS, JavaScript, 
-Database: MySQL, 
-Machine Learning: Python (XGBoost, pandas, scikit-learn), 
+Backend: Java (Spring Boot).  
+Frontend: HTML, CSS, JavaScript.  
+Database: MySQL.  
+Machine Learning: Python (XGBoost, pandas, scikit-learn).    
 Testing: Postman, Selenium.
 
 # What It Can Do
